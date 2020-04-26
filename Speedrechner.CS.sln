@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speedrechner.CS", "Speedrechner.CS\Speedrechner.CS.csproj", "{C96C6CAF-BCE7-45F9-9F2D-703BF31E5BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C96C6CAF-BCE7-45F9-9F2D-703BF31E5BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96C6CAF-BCE7-45F9-9F2D-703BF31E5BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C96C6CAF-BCE7-45F9-9F2D-703BF31E5BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C96C6CAF-BCE7-45F9-9F2D-703BF31E5BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9239F007-31F2-4CCC-8CA4-B7AD19501F60}
+	EndGlobalSection
+EndGlobal
